@@ -70,6 +70,10 @@ button:active{
     #calculator{
         border-radius: 10px;
         max-width: 550px;
+        padding: 8px;
+    }
+    #keys{
+        padding: 9px;
     }
     #display{
         width: 100%;
@@ -85,12 +89,16 @@ button:active{
     }
     button{
         font-size: 3rem;
-        width: 80px;
-        height: 80px;
+        width: 70px;
+        height: 70px;
     }
     #calculator{
         border-radius: 10px;
-        max-width: 400px;
+        max-width: 100%;
+        padding: 5px;
+    }
+    #keys{
+        padding: 5px;
     }
     #display{
         width: 100%;
@@ -104,13 +112,17 @@ button:active{
         margin: 10px;
     }
     button{
-        font-size: 1.3rem;
-        width: 30px;
-        height: 30px;
+        font-size: 2rem;
+        width: 45px;
+        height: 45px;
+    }
+    #keys{
+        padding: 5px;
     }
     #calculator{
         border-radius: 10px;
         max-width: 350px;
+        padding: 3px;
     }
     #display{
         width: 100%;
